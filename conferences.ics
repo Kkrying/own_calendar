@@ -1,0 +1,785 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Kkrying//own_calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AI Conference Deadlines
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:icml-2026-notification@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:[ICML 2026] Notification
+DESCRIPTION:2026-04-30 (AoE)\nSource: https://icml.cc/Conferences/2026/Date
+ s
+URL:https://icml.cc/Conferences/2026/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[ICML 2026] Notification
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:neurips-2026-abstract-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20260505T115900Z
+DTEND:20260505T122900Z
+SUMMARY:[NeurIPS 2026] Abstract Deadline
+DESCRIPTION:2026-05-04 23:59 AoE (time not stated\; treated as 23:59 AoE)\n
+ 2026-05-05 20:59 KST\nSource: https://neurips.cc/Conferences/2026/Dates
+URL:https://neurips.cc/Conferences/2026/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[NeurIPS 2026] Abstract Deadline
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:neurips-2026-paper-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20260507T115900Z
+DTEND:20260507T122900Z
+SUMMARY:[NeurIPS 2026] Paper Deadline
+DESCRIPTION:2026-05-06 23:59 AoE (time not stated\; treated as 23:59 AoE)\n
+ 2026-05-07 20:59 KST\nSource: https://neurips.cc/Conferences/2026/Dates
+URL:https://neurips.cc/Conferences/2026/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[NeurIPS 2026] Paper Deadline
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wacv-2027-r1-abstract-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20260620T115900Z
+DTEND:20260620T122900Z
+SUMMARY:[WACV 2027] Round 1 Paper Registration
+DESCRIPTION:2026-06-19 23:59 AoE (time not stated\; treated as 23:59 AoE)\n
+ 2026-06-20 20:59 KST\nSource: https://wacv.thecvf.com/Conferences/2027/Dat
+ es
+URL:https://wacv.thecvf.com/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[WACV 2027] Round 1 Paper Registration
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wacv-2027-r1-paper-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20260627T115900Z
+DTEND:20260627T122900Z
+SUMMARY:[WACV 2027] Round 1 Paper Deadline
+DESCRIPTION:2026-06-26 23:59 AoE (time not stated\; treated as 23:59 AoE)\n
+ 2026-06-27 20:59 KST\nSource: https://wacv.thecvf.com/Conferences/2027/Dat
+ es
+URL:https://wacv.thecvf.com/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[WACV 2027] Round 1 Paper Deadline
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wacv-2027-r1-supplementary-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20260629T115900Z
+DTEND:20260629T122900Z
+SUMMARY:[WACV 2027] Round 1 Supplementary Deadline
+DESCRIPTION:2026-06-28 23:59 AoE (time not stated\; treated as 23:59 AoE)\n
+ 2026-06-29 20:59 KST\nSource: https://wacv.thecvf.com/Conferences/2027/Dat
+ es
+URL:https://wacv.thecvf.com/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[WACV 2027] Round 1 Supplementary Deadline
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eccv-2026-camera-ready-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20260701T115900Z
+DTEND:20260701T122900Z
+SUMMARY:[ECCV 2026] Camera-ready Deadline
+DESCRIPTION:2026-06-30 23:59 AoE (time not stated\; treated as 23:59 AoE)\n
+ 2026-07-01 20:59 KST\nSource: https://eccv.ecva.net/Conferences/2026/Dates
+URL:https://eccv.ecva.net/Conferences/2026/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[ECCV 2026] Camera-ready Deadline
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:icml-2026-conference@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260712
+SUMMARY:[ICML 2026] Conference (Seoul)
+DESCRIPTION:2026-07-06 to 2026-07-11\, COEX Seoul\nSource: https://icml.cc/
+URL:https://icml.cc/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[ICML 2026] Conference (Seoul)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:neurips-2026-reviews-released@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:[NeurIPS 2026] Reviews Released
+DESCRIPTION:2026-07-22 (AoE)\nSource: https://neurips.cc/Conferences/2026/D
+ ates
+URL:https://neurips.cc/Conferences/2026/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[NeurIPS 2026] Reviews Released
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aaai-2027-abstract-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20260722T115900Z
+DTEND:20260722T122900Z
+SUMMARY:[AAAI 2027] Abstract Deadline
+DESCRIPTION:2026-07-21 23:59 AoE (UTC-12)\n2026-07-22 20:59 KST\nSource: ht
+ tps://aaai.org/conference/aaai/aaai-27/
+URL:https://aaai.org/conference/aaai/aaai-27/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[AAAI 2027] Abstract Deadline
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:neurips-2026-rebuttal-period@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260804
+SUMMARY:[NeurIPS 2026] Author Discussion Period
+DESCRIPTION:2026-07-27 to 2026-08-03 (AoE)\, author+reviewer+AC discussion\
+ nSource: https://neurips.cc/Conferences/2026/Dates
+URL:https://neurips.cc/Conferences/2026/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[NeurIPS 2026] Author Discussion Period
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aaai-2027-paper-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20260729T115900Z
+DTEND:20260729T122900Z
+SUMMARY:[AAAI 2027] Paper Deadline
+DESCRIPTION:2026-07-28 23:59 AoE (UTC-12)\n2026-07-29 20:59 KST\nSource: ht
+ tps://aaai.org/conference/aaai/aaai-27/
+URL:https://aaai.org/conference/aaai/aaai-27/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[AAAI 2027] Paper Deadline
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aaai-2027-supplementary-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20260801T115900Z
+DTEND:20260801T122900Z
+SUMMARY:[AAAI 2027] Supplementary Deadline
+DESCRIPTION:2026-07-31 23:59 AoE (UTC-12)\n2026-08-01 20:59 KST\nSource: ht
+ tps://aaai.org/conference/aaai/aaai-27/
+URL:https://aaai.org/conference/aaai/aaai-27/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[AAAI 2027] Supplementary Deadline
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wacv-2027-r1-reviews-released@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:[WACV 2027] Round 1 Reviews Released
+DESCRIPTION:2026-08-09 (AoE)\nSource: https://wacv.thecvf.com/Conferences/2
+ 027/Dates
+URL:https://wacv.thecvf.com/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[WACV 2027] Round 1 Reviews Released
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wacv-2027-r2-abstract-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20260822T115900Z
+DTEND:20260822T122900Z
+SUMMARY:[WACV 2027] Round 2 Paper Registration
+DESCRIPTION:2026-08-21 23:59 AoE (time not stated\; treated as 23:59 AoE)\n
+ 2026-08-22 20:59 KST\nSource: https://wacv.thecvf.com/Conferences/2027/Dat
+ es
+URL:https://wacv.thecvf.com/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[WACV 2027] Round 2 Paper Registration
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wacv-2027-r1-rebuttal-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20260829T115900Z
+DTEND:20260829T122900Z
+SUMMARY:[WACV 2027] Round 1 Rebuttal Deadline
+DESCRIPTION:2026-08-28 23:59 AoE (time not stated\; treated as 23:59 AoE)\n
+ 2026-08-29 20:59 KST\nSource: https://wacv.thecvf.com/Conferences/2027/Dat
+ es
+URL:https://wacv.thecvf.com/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[WACV 2027] Round 1 Rebuttal Deadline
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wacv-2027-r2-paper-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20260829T115900Z
+DTEND:20260829T122900Z
+SUMMARY:[WACV 2027] Round 2 Paper Deadline
+DESCRIPTION:2026-08-28 23:59 AoE (time not stated\; treated as 23:59 AoE)\n
+ 2026-08-29 20:59 KST\nSource: https://wacv.thecvf.com/Conferences/2027/Dat
+ es
+URL:https://wacv.thecvf.com/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[WACV 2027] Round 2 Paper Deadline
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wacv-2027-r2-supplementary-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20260831T115900Z
+DTEND:20260831T122900Z
+SUMMARY:[WACV 2027] Round 2 Supplementary Deadline
+DESCRIPTION:2026-08-30 23:59 AoE (time not stated\; treated as 23:59 AoE)\n
+ 2026-08-31 20:59 KST\nSource: https://wacv.thecvf.com/Conferences/2027/Dat
+ es
+URL:https://wacv.thecvf.com/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[WACV 2027] Round 2 Supplementary Deadline
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eccv-2026-conference@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260913
+SUMMARY:[ECCV 2026] Conference (Malmo)
+DESCRIPTION:2026-09-08 to 2026-09-12 (workshops Sep 8-9\, main Sep 10-12)\n
+ Source: https://eccv.ecva.net/
+URL:https://eccv.ecva.net/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[ECCV 2026] Conference (Malmo)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iclr-2027-abstract-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20260919T115900Z
+DTEND:20260919T122900Z
+SUMMARY:[ICLR 2027] Abstract Deadline
+DESCRIPTION:2026-09-18 23:59 AoE (time not stated\; treated as 23:59 AoE)\n
+ 2026-09-19 20:59 KST\nSource: https://iclr.cc/Conferences/2027/Dates
+URL:https://iclr.cc/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[ICLR 2027] Abstract Deadline
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:neurips-2026-notification@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:[NeurIPS 2026] Notification
+DESCRIPTION:2026-09-24 (AoE)\nSource: https://neurips.cc/Conferences/2026/D
+ ates
+URL:https://neurips.cc/Conferences/2026/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[NeurIPS 2026] Notification
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iclr-2027-paper-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20260926T115900Z
+DTEND:20260926T122900Z
+SUMMARY:[ICLR 2027] Paper Deadline
+DESCRIPTION:2026-09-25 23:59 AoE (time not stated\; treated as 23:59 AoE)\n
+ 2026-09-26 20:59 KST\nSource: https://iclr.cc/Conferences/2027/Dates
+URL:https://iclr.cc/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[ICLR 2027] Paper Deadline
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:miccai-2026-conference@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20261002
+SUMMARY:[MICCAI 2026] Conference (Strasbourg)
+DESCRIPTION:2026-09-27 to 2026-10-01\nSource: https://conferences.miccai.or
+ g/2026/en/default.asp
+URL:https://conferences.miccai.org/2026/en/default.asp
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MICCAI 2026] Conference (Strasbourg)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wacv-2027-r1-notification@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:[WACV 2027] Round 1 Notification
+DESCRIPTION:2026-10-14 (AoE)\nSource: https://wacv.thecvf.com/Conferences/2
+ 027/Dates
+URL:https://wacv.thecvf.com/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[WACV 2027] Round 1 Notification
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wacv-2027-r2-notification@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:[WACV 2027] Round 2 Reviews and Notification
+DESCRIPTION:2026-10-14 (AoE)\nSource: https://wacv.thecvf.com/Conferences/2
+ 027/Dates
+URL:https://wacv.thecvf.com/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[WACV 2027] Round 2 Reviews and Notification
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wacv-2027-camera-ready-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20261103T115900Z
+DTEND:20261103T122900Z
+SUMMARY:[WACV 2027] Camera-ready Deadline
+DESCRIPTION:2026-11-02 23:59 AoE (time not stated\; treated as 23:59 AoE)\n
+ 2026-11-03 20:59 KST\nSource: https://wacv.thecvf.com/Conferences/2027/Dat
+ es
+URL:https://wacv.thecvf.com/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[WACV 2027] Camera-ready Deadline
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iclr-2027-rebuttal-period@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261119
+SUMMARY:[ICLR 2027] Rebuttal Period
+DESCRIPTION:2026-11-05 to 2026-11-18 (no timezone stated)\nSource: https://
+ iclr.cc/Conferences/2027/Dates
+URL:https://iclr.cc/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[ICLR 2027] Rebuttal Period
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iclr-2027-reviews-released@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:[ICLR 2027] Reviews Released
+DESCRIPTION:2026-11-05 (no timezone stated)\nSource: https://iclr.cc/Confer
+ ences/2027/Dates
+URL:https://iclr.cc/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[ICLR 2027] Reviews Released
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cvpr-2027-abstract-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20261111T115900Z
+DTEND:20261111T122900Z
+SUMMARY:[CVPR 2027] Paper Registration Deadline
+DESCRIPTION:2026-11-10 23:59 AoE (time not stated\; treated as 23:59 AoE)\n
+ 2026-11-11 20:59 KST\nSource: https://cvpr.thecvf.com/Conferences/2027/Dat
+ es
+URL:https://cvpr.thecvf.com/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CVPR 2027] Paper Registration Deadline
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cvpr-2027-paper-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20261117T115900Z
+DTEND:20261117T122900Z
+SUMMARY:[CVPR 2027] Paper Deadline
+DESCRIPTION:2026-11-16 23:59 AoE (time not stated\; treated as 23:59 AoE)\n
+ 2026-11-17 20:59 KST\nSource: https://cvpr.thecvf.com/Conferences/2027/Cal
+ lForPapers
+URL:https://cvpr.thecvf.com/Conferences/2027/CallForPapers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CVPR 2027] Paper Deadline
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cvpr-2027-supplementary-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20261124T115900Z
+DTEND:20261124T122900Z
+SUMMARY:[CVPR 2027] Supplementary Deadline
+DESCRIPTION:2026-11-23 23:59 AoE (time not stated\; treated as 23:59 AoE)\n
+ 2026-11-24 20:59 KST\nSource: https://cvpr.thecvf.com/Conferences/2027/Dat
+ es
+URL:https://cvpr.thecvf.com/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CVPR 2027] Supplementary Deadline
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aaai-2027-notification@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[AAAI 2027] Notification (Main Track)
+DESCRIPTION:2026-11-30 (AoE\, no time stated)\nSource: https://aaai.org/con
+ ference/aaai/aaai-27/
+URL:https://aaai.org/conference/aaai/aaai-27/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[AAAI 2027] Notification (Main Track)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:neurips-2026-conference@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261213
+SUMMARY:[NeurIPS 2026] Conference (Sydney)
+DESCRIPTION:2026-12-06 to 2026-12-12 per home page\; main conference Dec 11
+ -12\, tutorials Dec 7-10. Satellite: Atlanta\, Paris\nSource: https://neur
+ ips.cc/
+URL:https://neurips.cc/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[NeurIPS 2026] Conference (Sydney)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aaai-2027-camera-ready-deadline@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART:20261215T115900Z
+DTEND:20261215T122900Z
+SUMMARY:[AAAI 2027] Camera-ready Deadline (Main Track)
+DESCRIPTION:2026-12-14 23:59 AoE (time not stated\; treated as 23:59 AoE)\n
+ 2026-12-15 20:59 KST\nSource: https://aaai.org/conference/aaai/aaai-27/
+URL:https://aaai.org/conference/aaai/aaai-27/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[AAAI 2027] Camera-ready Deadline (Main Track)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iclr-2027-notification@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:[ICLR 2027] Notification
+DESCRIPTION:2026-12-16 (no timezone stated)\nSource: https://iclr.cc/Confer
+ ences/2027/Dates
+URL:https://iclr.cc/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[ICLR 2027] Notification
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wacv-2027-conference@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270109
+SUMMARY:[WACV 2027] Conference (Orlando area\, FL)
+DESCRIPTION:2027-01-04 to 2027-01-08 (workshops Jan 4-5\, main Jan 6-8)\, D
+ isney Springs\nSource: https://wacv.thecvf.com/
+URL:https://wacv.thecvf.com/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[WACV 2027] Conference (Orlando area\, FL)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cvpr-2027-rebuttal-period@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270202
+SUMMARY:[CVPR 2027] Rebuttal Period
+DESCRIPTION:2027-01-25 to 2027-02-01 (AoE)\nSource: https://cvpr.thecvf.com
+ /Conferences/2027/CallForPapers
+URL:https://cvpr.thecvf.com/Conferences/2027/CallForPapers
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CVPR 2027] Rebuttal Period
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cvpr-2027-reviews-released@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:[CVPR 2027] Reviews Released
+DESCRIPTION:2027-01-25 (AoE)\nSource: https://cvpr.thecvf.com/Conferences/2
+ 027/Dates
+URL:https://cvpr.thecvf.com/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CVPR 2027] Reviews Released
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aaai-2027-conference@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270224
+SUMMARY:[AAAI 2027] Conference (Montreal)
+DESCRIPTION:2027-02-16 to 2027-02-23\nSource: https://aaai.org/conference/a
+ aai/aaai-27/
+URL:https://aaai.org/conference/aaai/aaai-27/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[AAAI 2027] Conference (Montreal)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cvpr-2027-notification@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:[CVPR 2027] Notification
+DESCRIPTION:2027-02-25 (AoE)\nSource: https://cvpr.thecvf.com/Conferences/2
+ 027/Dates
+URL:https://cvpr.thecvf.com/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CVPR 2027] Notification
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iclr-2027-conference@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270429
+SUMMARY:[ICLR 2027] Conference
+DESCRIPTION:2027-04-26 to 2027-04-28 main\; workshops Apr 29-30. City/venue
+  not confirmed (TBA)\nSource: https://iclr.cc/Conferences/2027/Dates
+URL:https://iclr.cc/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[ICLR 2027] Conference
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cvpr-2027-conference@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270626
+SUMMARY:[CVPR 2027] Conference
+DESCRIPTION:2027-06-22 to 2027-06-25 main\; workshops/tutorials Jun 20-21. 
+ Location not confirmed on Dates page\nSource: https://cvpr.thecvf.com/Conf
+ erences/2027/Dates
+URL:https://cvpr.thecvf.com/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[CVPR 2027] Conference
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:miccai-2027-conference@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20271002
+SUMMARY:[MICCAI 2027] Conference (Auckland)
+DESCRIPTION:2027-09-26 to 2027-10-01\nSource: https://miccai.org/?p=2103
+URL:https://miccai.org/?p=2103
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MICCAI 2027] Conference (Auckland)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iccv-2027-conference@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271008
+SUMMARY:[ICCV 2027] Conference (Hong Kong)
+DESCRIPTION:2027-10-03 to 2027-10-07 (workshops Oct 3-4\, main Oct 5-7)\, H
+ KCEC\nSource: https://iccv.thecvf.com/Conferences/2027/Dates
+URL:https://iccv.thecvf.com/Conferences/2027/Dates
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[ICCV 2027] Conference (Hong Kong)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:miccai-2028-conference@kkrying-own-calendar
+DTSTAMP:20261012T000000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20281016
+DTEND;VALUE=DATE:20281021
+SUMMARY:[MICCAI 2028] Conference (Sao Paulo)
+DESCRIPTION:2028-10-16 to 2028-10-20\nSource: https://miccai.org/?p=2103
+URL:https://miccai.org/?p=2103
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:[MICCAI 2028] Conference (Sao Paulo)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
